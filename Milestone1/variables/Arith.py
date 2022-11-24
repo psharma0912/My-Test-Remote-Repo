@@ -61,3 +61,8 @@ print(type(num))
 print(type(text_num))
 print(type(decimal_num))
 print(num+decimal_num)
+
+print(dir(str))
+x=[1,2,3,4,5]
+
+# %%
